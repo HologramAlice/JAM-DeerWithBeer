@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "bcf3bc3b248f4473",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9904024ce1eaaf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce49c77f974464d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEVlogs-lib/DEVlogs-LIB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DEVlogs-LIB"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc8efc89b5df0848",
+    "type": "split",
+    "children": [
+      {
+        "id": "311ecbd49391dee2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d3f2d400910d032",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "1f9276a0b035906f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "f22e08b189530d5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c8832bde5410761",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dd94df9fc6e0678",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12516167857bf414",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DEVlogs-lib/DEVlogs-LIB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для DEVlogs-LIB"
+            }
+          },
+          {
+            "id": "cee4f7734ced0e6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DEVlogs-lib/DEVlogs-LIB.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из DEVlogs-LIB"
+            }
+          },
+          {
+            "id": "8dc6294c8d8766da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "93b8d20a55351d4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DEVlogs-lib/DEVlogs-LIB.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура DEVlogs-LIB"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ce49c77f974464d5",
+  "lastOpenFiles": [
+    "DEVlogs-lib/LOGS/DEVlog-001.md",
+    "DEVlogs-lib/DEVlogs-LIB.md",
+    "Навигатор.md",
+    "DEVlogs-lib/LOGS",
+    "DEVlogs-lib"
+  ]
+}
