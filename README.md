@@ -47,7 +47,7 @@
 
 ## 📝 About the Project
 **A jam project to practice game development skills**  
-Project maded by `just` and `ALT`
+Project maded by `---` and `ALT`
 
 ---
 
